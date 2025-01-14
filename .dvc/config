@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://trina@172.232.118.182:22/home/trina/remotestorage
